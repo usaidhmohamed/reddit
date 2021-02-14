@@ -1,0 +1,322 @@
+{
+  "posts": [
+	{
+	  "id": 1,
+	  "user": 1,
+	  "createdAt": "2021-02-11T20:15:00.000-04:00",
+	  "post": "I just got mine guys. I'm so so glad to own this laptop. My dream laptop right in front of my eyes, on my table. Could not feel any happier. Not the top model, but who needs it? This standard model will do absolutely fine for me",
+	  "image": "https://i.redd.it/8ku674o3ydc61.jpg",
+	  "data": [
+        {
+          "id": 123,
+          "points": 20,
+          "createdAt": "2021-02-11T20:15:00.000-04:00",
+          "text": "Lorem Ipsum",
+          "user": 1,
+          "comments": [
+            {
+              "id": 43,
+              "points": 30,
+              "createdAt": "2021-02-11T20:16:00.000-04:00",
+              "text": "Dolor amen",
+              "user": 2,
+              "comments": [
+                {
+                  "id": 422,
+                  "points": 12,
+                  "createdAt": "2021-02-11T20:17:00.000-04:00",
+                  "text": "Vestibulum lorem purus",
+                  "user": 2,
+                  "comments": []
+                }
+              ]
+            },
+            {
+              "id": 3201,
+              "points": 10,
+              "createdAt": "2021-02-11T20:17:00.000-04:00",
+              "text": "Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales",
+              "user": 1,
+              "comments": []
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "points": -2,
+          "createdAt": "2018-03-28T20:12:00.000-04:00",
+          "text": "Lorem Ipsum",
+          "user": 2,
+          "comments": []
+        }
+      ]
+	},
+	{
+	  "id": 2,
+	  "user": 2,
+	  "createdAt": "2021-02-11T20:15:00.000-04:00",
+	  "post": "A crow rides on the back of an eagle",
+	  "image": "https://i.redd.it/tpv3i0bliug61.jpg",
+	  "data": [
+        {
+          "id": 123,
+          "points": 20,
+          "createdAt": "2021-02-11T20:15:00.000-04:00",
+          "text": "Lorem Ipsum",
+          "user": 1,
+          "comments": [
+            {
+              "id": 43,
+              "points": 30,
+              "createdAt": "2021-02-11T20:16:00.000-04:00",
+              "text": "Dolor amen",
+              "user": 2,
+              "comments": [
+                {
+                  "id": 422,
+                  "points": 12,
+                  "createdAt": "2021-02-11T20:17:00.000-04:00",
+                  "text": "Vestibulum lorem purus",
+                  "user": 2,
+                  "comments": []
+                }
+              ]
+            },
+            {
+              "id": 3201,
+              "points": 10,
+              "createdAt": "2021-02-11T20:17:00.000-04:00",
+              "text": "Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales",
+              "user": 1,
+              "comments": []
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "points": -2,
+          "createdAt": "2018-03-28T20:12:00.000-04:00",
+          "text": "Lorem Ipsum",
+          "user": 2,
+          "comments": []
+        }
+      ]
+	},
+	{
+	  "id": 3,
+	  "user": 2,
+	  "createdAt": "2021-02-11T20:15:00.000-04:00",
+	  "post": "A StarCraft gaming tournament took place 10 years ago and these were the prizes teams could win",
+	  "image": "https://i.redd.it/xrngob75sug61.jpg",
+	  "data": [
+        {
+          "id": 123,
+          "points": 20,
+          "createdAt": "2021-02-11T20:15:00.000-04:00",
+          "text": "Lorem Ipsum",
+          "user": 1,
+          "comments": [
+            {
+              "id": 43,
+              "points": 30,
+              "createdAt": "2021-02-11T20:16:00.000-04:00",
+              "text": "Dolor amen",
+              "user": 2,
+              "comments": [
+                {
+                  "id": 422,
+                  "points": 12,
+                  "createdAt": "2021-02-11T20:17:00.000-04:00",
+                  "text": "Vestibulum lorem purus",
+                  "user": 2,
+                  "comments": []
+                }
+              ]
+            },
+            {
+              "id": 3201,
+              "points": 10,
+              "createdAt": "2021-02-11T20:17:00.000-04:00",
+              "text": "Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales Nullam hendrerit quis arcu sed sodales",
+              "user": 1,
+              "comments": []
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "points": -2,
+          "createdAt": "2018-03-28T20:12:00.000-04:00",
+          "text": "Lorem Ipsum",
+          "user": 2,
+          "comments": []
+        }
+      ]
+	}
+  ],
+  "comments": [
+    { 
+	  "id": 1,
+	  "data": [
+		{
+		  "id": "comment-0001",
+		  "user": {
+			"id": "user-0001",
+			"name": "MakeNBreak69"
+		  },
+		  "comment": "Could someone point out to me, what the benefit of winning the group is? I mean, both finalists of the group will qualify for the Spring Finals? So what is the point of fighting for 1st? Braggin’ rights?",
+		  "replies": [
+			{
+			  "id": "comment-0001-001",
+			  "user": {
+				"id": "user-0002",
+				"name": "srjnp"
+			  },
+			  "comment": "double the money plus better seeding",
+			  "replies": []
+			},
+			{
+			  "id": "comment-0001-002",
+			  "user": {
+				"id": "user-0003",
+				"name": "costryme"
+			  },
+			  "comment": "Better seeding in the Finals for the first match IIRC\nAnd you win more money as group winner",
+			  "replies": [
+				{
+				  "id": "comment-0001-002-001",
+				  "user": {
+					"id": "user-0001",
+					"name": "MakeNBreak69"
+				  },
+				  "comment": "Okay, but how does better seeding benefit a team?",
+				  "replies": [
+					{
+					  "id": "comment-0001-002-001-001",
+					  "user": {
+						"id": "user-0004",
+						"name": "FatalDistortion"
+					  },
+					  "comment": "You play against the team with worse seeding, and they are probably going to be easier than the alternative cause they are lower seeded",
+					  "replies": [
+						{
+						  "id": "comment-0001-002-001-001-001",
+						  "user": {
+							"id": "user-0001",
+							"name": "MakeNBreak69"
+						  },
+						  "comment": "Gotya, thank you!",
+						  "replies": []
+						}
+					  ]
+					}
+				  ]
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "id": "comment-0002",
+		  "user": {
+			"id": "user-0005",
+			"name": "Dali86"
+		  },
+		  "comment": "Og just cant close maps. Mantuu had ovet 20 kills but seemed that for the second half of the map he was really bad and kept losing duels when it mattered.\nTough spot for OG to lose their own map again after being ahead. Now they go into inferno with low momentum :(",
+		  "replies": [
+			{
+			  "id": "comment-0002-001",
+			  "user": {
+				"id": "user-0005",
+				"name": "mkomango"
+			  },
+			  "comment": "Whenever I watch OG I see two modes of Mantuu. He's like the new Allu, he either hits nice shots, or he acts like a complete bot. And I'm not just saying missed flicks, because even dev1ce misses flicks, I'm talking huge mental errors and ridiculous whiffs. Honestly I think OG would've been better off with Jamppii, bummer he can't have a career.",
+			  "replies": []
+			}
+		  ]
+		},
+		{
+		  "id": "comment-0003",
+		  "user": {
+			"id": "user-0006",
+			"name": "z0ttel89"
+		  },
+		  "comment": "NiP have the stream running on a big TV in the same room they're playing in.Are we doing this whole shenanigans again now? Didn't ESIC say there are gonna be consequences from now on? Getting a little tired of this.",
+		  "replies": [
+			{
+			  "id": "comment-0003-001",
+			  "user": {
+				"id": "user-0007",
+				"name": "Keyed"
+			  },
+			  "comment": "It's not the stream, it's the coach PC hooked up to the TV",
+			  "replies": []
+			},
+			{
+			  "id": "comment-0003-002",
+			  "user": {
+				"id": "user-0009",
+				"name": "OuiOuiOuis"
+			  },
+			  "comment": "Doesn’t big currently has the stream on a big screen?",
+			  "replies": []
+			}
+		  ]
+		},
+		{
+		  "id": "comment-0004",
+		  "user": {
+			"id": "user-0010",
+			"name": "Spartan_exr"
+		  },
+		  "comment": "Blast has the best presentation and production of all the ongoing series at the moment, my favourite without a doubt. That sounded like a paid advertisement, but I really just like the series",
+		  "replies": [
+			{
+			  "id": "comment-0004-001",
+			  "user": {
+				"id": "user-0002",
+				"name": "srjnp"
+			  },
+			  "comment": "Blast went from one of the worst TOs with the worst format when they first started to one of the best now.",
+			  "replies": []
+			},
+			{
+			  "id": "comment-0004-0002",
+			  "user": {
+				"id": "user-0011",
+				"name": "geraldho"
+			  },
+			  "comment": "I LIKE THE PRODUCTION",
+			  "replies": [
+				{
+				  "id": "comment-0004-0002-0001",
+				  "user": {
+					"id": "user-0010",
+					"name": "Spartan_exr"
+				  },
+				  "comment": "Blast-off to the moon",
+				  "replies": []
+				}
+			  ]
+			}
+		  ]
+		}
+	  ],
+	  "continuationToken": null,
+	  "httpStatusCode": "OK",
+	  "errors": [],
+	  "isError": false
+	}
+  ],
+  "users": [
+	{
+	  "id": 1,
+	  "username": "superman"
+	},
+	{
+	  "id": 2,
+	  "username": "spiderman"
+	}
+  ],
+  "profile": { "name": "typicode" }
+}

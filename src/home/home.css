@@ -1,0 +1,15 @@
+.post-section {
+  background-color: white;
+  width: 96%;
+  padding: 10px 20px;
+}
+
+img {
+  width: 96%;
+  padding: 2%;
+}
+
+.comment-link {
+  margin-bottom: 10px;
+  padding-left: 20px;
+}

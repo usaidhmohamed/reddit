@@ -1,0 +1,41 @@
+body {
+  background-color: #eee;
+  margin: 2% 10% 2% 10%;
+}
+
+.container {
+  display: inline-table;
+  width: 60%;
+}
+
+.right-panel {
+  display: inline-table;
+  max-width: 20%;
+  min-height: 200px;
+  background-color: white;
+  padding: 5%;
+  margin-top: 20px;
+  float: right;
+}
+
+.username.smallType {
+    color: #369;
+    font-weight: bold;
+  }
+  
+  .smallType {
+    margin-right: 0.5em;
+  }
+  
+  .noselect {
+    -webkit-touch-callout: none;
+      -webkit-user-select: none;
+       -khtml-user-select: none;
+         -moz-user-select: none;
+          -ms-user-select: none;
+              user-select: none;
+  }
+
+  .post-section {
+    margin-top: 20px;
+  }

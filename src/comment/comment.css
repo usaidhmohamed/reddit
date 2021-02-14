@@ -1,0 +1,43 @@
+.comment-section {
+  background-color: white;
+  width: 96%;
+  padding: 20px;
+}
+
+.flex {
+  display: flex;
+}
+
+.comment {
+  margin-left: 30px;
+  margin-right: 15px;
+}
+
+.singleComment {
+  margin-bottom: 0.5rem;
+}
+
+.voteCol {
+  margin-right: 0.5em;
+  display: inline-flex;
+}
+
+.smallType {
+  color: gray;
+  font-size: 0.8em;
+}
+
+.upvote,
+.downvote {
+  color: gray;
+  cursor: pointer;
+  margin-right: 0.5em;
+}
+
+.upvote.active {
+  color: #ff8b60;
+}
+
+.downvote.active {
+  color: #9493ff;
+}
